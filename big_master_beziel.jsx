@@ -115,7 +115,7 @@ export default function BezielMastering() {
                       className="bg-gold text-black hover:bg-gold/80"
                       onClick={downloadEnhanced}
                     >
-                      🔥 Download Enhanced Master
+                       Download Enhanced Master
                     </Button>
                   </div>
                 )}
